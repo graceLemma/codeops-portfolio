@@ -45,8 +45,6 @@ print(f"Balance: {account1.balance}")
 
 print(f"Owner: {account2.owner}")
 print(f"Account Number: {account2.account_number}")
-<<<<<<< HEAD
 print(f"Balance: {account2.balance}")
-=======
 print(f"Balance: {account2.balance}")
->>>>>>> 88218dd357aa541603d991e2caea6dd8634a6a50
+
